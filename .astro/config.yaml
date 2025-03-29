@@ -1,2 +1,4 @@
 project:
     name: etl-pipeline
+postgres:
+    port: 5433
